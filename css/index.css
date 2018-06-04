@@ -1,0 +1,95 @@
+ul{
+	margin:0px;padding:0px;
+}
+ul li a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	list-style:none;
+}
+ul li{
+	float:left;
+	width:150px;
+	height:50px;
+	background-color:black;
+	font-size:25px;
+	line-height:50px;
+	text-align:center;
+	opacity:.8;
+	border:2px solid #f7cc54;
+}
+ul li a:hover{
+	background-color:orange;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	display:block;
+}
+#content2{
+padding:300px;
+height:500px;
+width:800px;
+	
+}
+img{
+	background-color:yellow;
+}
+
+#footer
+{
+   height:250px;
+   border:3px solid none;
+   padding:5px;
+   background-color:#d3e8e8;
+}
+
+#leftfooter
+{
+	height:140px;
+	width:450px;
+	float:left;
+	border:3px solid none;
+	padding:5px;
+}
+#rightfooter
+{
+	height:120px;
+	width:450px;
+	float:right;
+	border:3px solid none;
+	padding:5px;
+}
+.fa {
+  padding: 15px;
+  font-size: 25px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}

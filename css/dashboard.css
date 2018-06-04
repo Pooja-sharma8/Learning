@@ -1,0 +1,47 @@
+
+
+#table3{
+    height: auto;
+    width: 100%;
+}
+th{
+    text-align: center;
+    
+}
+#tables{
+     height: auto;
+    width: 100%; 
+    padding: 100px;
+    margin: 50px;
+}
+#table1{
+     height: auto;
+    width: 100%; 
+}
+#table2{
+     height: auto;
+    width: 100%; }
+
+.btn {
+    border: none;
+    color: white;
+    padding: 13px 54px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.home {background-color:#fa7b05;}/*orange*/
+.home:hover {background-color: #f7cc54;}
+
+.success {background-color: #e80e74;} /*pink*/
+.success:hover {background-color:#f274af ;}
+
+.info {background-color: #1520b3;} /* Blue */
+.info:hover {background: #6770e6;}
+
+.warning {background-color: #4CAF50;} /* Green */
+.warning:hover {background: #46a049;}
+
+.danger {background-color: #f44336;} /* Red */ 
+.danger:hover {background: #da190b;}
+
